@@ -1,0 +1,19 @@
+{
+  "name": "halai",
+  "description": "Halai plugins for Claude",
+  "owner": {
+    "name": "Halai AI",
+    "email": "care@halaiapp.ai",
+    "url": "https://halaiapp.ai"
+  },
+  "plugins": [
+    {
+      "name": "halai",
+      "displayName": "Halai",
+      "source": "./plugins/halai",
+      "description": "Create product photos, marketing images, video ads and audio from your prompts and references, with your Halai credits.",
+      "category": "Creativity",
+      "tags": ["images", "video", "audio", "marketing", "arabic"]
+    }
+  ]
+}

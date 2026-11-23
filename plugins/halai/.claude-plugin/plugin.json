@@ -1,0 +1,20 @@
+{
+  "name": "halai",
+  "displayName": "Halai",
+  "version": "1.0.0",
+  "description": "Create product photos, marketing images, video ads and audio (voice-overs, music and sound effects) from your prompts and reference images, clips and audio. Presenter videos support Arabic, English and Spanish. Connect your Halai account to check your balance, see each job's credit cost before it runs, and view results in the conversation. Generation spends your existing Halai credits within your connection's spending limits.",
+  "author": {
+    "name": "Halai AI",
+    "email": "care@halaiapp.ai",
+    "url": "https://halaiapp.ai"
+  },
+  "homepage": "https://halaiapp.ai/mcp",
+  "repository": "https://github.com/Halai-AI/mcp",
+  "license": "MIT",
+  "keywords": ["images", "video", "audio", "product photos", "ads", "marketing", "arabic"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://halaiapp.ai/docs/mcp",
+  "supportUrl": "https://halaiapp.ai/contact",
+  "privacyPolicyUrl": "https://halaiapp.ai/privacy",
+  "termsOfServiceUrl": "https://halaiapp.ai/terms"
+}
