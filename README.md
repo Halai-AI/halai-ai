@@ -7,13 +7,13 @@ The plugin connects Claude to your [Halai](https://halaiapp.ai) account. Claude 
 ## Install in Claude
 
 1. Open **Customize → Plugins** in Claude.
-2. Choose **Add → Add marketplace** and enter `Halai-AI/mcp`.
+2. Choose **Add → Add marketplace** and enter `Halai-AI/halai-ai`.
 3. Add **Halai**, open its **Connectors** tab, and sign in with your Halai account.
 
 ## Install in Claude Code
 
 ```
-/plugin marketplace add Halai-AI/mcp
+/plugin marketplace add Halai-AI/halai-ai
 /plugin install halai@halai
 ```
 
